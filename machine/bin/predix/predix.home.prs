@@ -1,0 +1,6 @@
+predix.home.dir=/predix/predixwork/eclipse/henry-predix-machine/Predix-MB-WS-TS
+predix.version=17.2.2
+predix.data.dir=/predix/predixwork/eclipse/henry-predix-machine/Predix-MB-WS-TS
+felix.fileinstall.dir=/predix/predixwork/eclipse/henry-predix-machine/Predix-MB-WS-TS/configuration/machine
+org.ops4j.pax.logging.logdir=/predix/predixwork/eclipse/henry-predix-machine/Predix-MB-WS-TS/logs/machine
+mbs.domain.base=/predix/predixwork/eclipse/henry-predix-machine/Predix-MB-WS-TS/security/prosyst/8.1
